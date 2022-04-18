@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RHalder143
+- 👋 Hi, I’m @Ritam Halder
 - 👀 I’m interested in Programming in Various Languages especially in C/C++ and Python.
-- 🌱 I’m currently learning C Programming Language.
+- 🌱 I’m currently studying B.Tech CSE at University of Engineering and Management, Jaipur.
 - 💞️ I’m looking to collaborate on various interesting projects related to programming.
 - 📫 How to reach me via my social media platforms like Facebook: https://www.facebook.com/ritamhalder143 and Instagram: https://www.instagram.com/_rh_1409/
 
