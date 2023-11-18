@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ritam Halder
-- 👀 I’m interested in hacking related security stuffs 
+- 👀 I’m interested in software development and full stack development fields. 
 - 🌱 I’m currently studying B.Tech CSE at University of Engineering and Management, Jaipur.
-- 💞️ I’m looking to collaborate on various interesting projects related to IT.
 - 📫 How to reach me via my social media platforms like Facebook: https://www.facebook.com/ritamhalder143 and Instagram: https://www.instagram.com/_rh_1409/
 
 <!---
